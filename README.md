@@ -1,7 +1,7 @@
-[![MasterHead](https://graphicriver.net/item/software-development-conceptual-abstract-banner/23957519)]
+[![MasterHead](https://graphicriver.img.customer.envatousercontent.com/files/266049299/preview.jpg?auto=compress%2Cformat&q=80&fit=crop&crop=top&max-h=8000&max-w=590&s=0d4984284626432294164269c410819a)]
 <h1 align="center">Hi 👋, I'm Bernardo Domingues</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/coding-gif-24625099"/>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardodomingues&label=Profile%20views&color=0e75b6&style=flat" alt="bernardodomingues" /> </p>
 
