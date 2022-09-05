@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bernardodomingues&label=Profile%20views&color=0e75b6&style=flat" alt="bernardodomingues" /> </p>
 
-- 🔭 I’m currently working on **Criasol**
+- 🔭 I’m currently working on **TickX**
 
 - 🌱 I’m currently learning **Python and Java**
 
