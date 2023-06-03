@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **TickX**
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **bernardoopd@hotmail.com**
 
